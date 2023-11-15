@@ -1,8 +1,8 @@
 Author:     Epictetus
 Title:      How to be Free
 Translator: Anthony Long
-Date:       2008
-Source:     [book](https://en.wikipedia.org/wiki/Special:BookSources/978-0691177717)
+Date:       2018
+Source:     [book](https://press.princeton.edu/books/hardcover/9780691177717/how-to-be-free)
 Code:       al
 
 ## 1
